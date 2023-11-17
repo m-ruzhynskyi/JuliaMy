@@ -1,0 +1,147 @@
+@media (max-width: 1780px) {
+    main #join .sign .photos img[alt="Julie 5"]{
+        position: static;
+    }
+    main #join .sign .photos img[alt="Julie 4"]{
+        display: none;
+    }
+}
+@media (max-width: 1510px) {
+    header .tel{
+        display: none;
+    }
+    main .text{
+        margin-right: 0;
+    }
+    main .start{
+        margin-left: 28%;
+    }
+    main .photo{
+        margin-left: 0;
+    }
+    main .port .cards .card{
+        margin-bottom: 20px;
+    }
+
+    main #join .sign .connection form{
+        margin-left: 30%;
+    }
+}
+@media (max-width: 1250px) {
+    main .start{
+        margin-left: 33%;
+    }
+
+    main .about_me .info{
+        margin-top: 15%;
+    }
+
+    main .about h2{
+        text-align: center;
+    }
+
+    main #portfolio .port h2:nth-child(1) {
+        text-align: center;
+    }
+
+    footer .foot{
+        flex-direction: column;
+    }
+    footer .foot nav {
+        padding: 3%;
+        margin-left: 10%;
+    }
+    footer p{
+        margin: 0 0 0 2%;
+    }
+
+    main #price{
+        text-align: center;
+    }
+    main #join .sign .connection form{
+        margin-left: 15%;
+    }
+}
+@media (max-width: 1350px) {
+    main .price {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    main .price .card{
+        margin-top: 13%;
+    }
+}
+
+@media (max-width: 1024px) {
+    .wrapper{
+        margin: 30px 0 0 0;
+    }
+    main .start {
+        margin-left: 5%;
+    }
+    main .about_me {
+        flex-direction: column;
+    }
+    main .pic1 {
+        margin: auto;
+    }
+    main .start .photo {
+        width: 60%;
+        height: 60%;
+    }
+    main #join .sign .connection form input {
+        max-width: 400px;
+    }
+    main #join .sign {
+        justify-content: center;
+    }
+    main #join .sign .connection form textarea {
+        max-width: 470px;
+    }
+}
+
+@media (max-width: 940px) {
+    main .start {
+        flex-direction: column;
+    }
+    main .text {
+        white-space: normal;
+        margin-bottom: 0;
+    }
+    main .text h1 {
+        text-align: center  ;
+    }
+    main .text p {
+        text-align: center;
+    }
+    main .text button {
+        margin: 0 0 0 30%;
+    }
+    main #join .sign {
+        flex-direction: column;
+    }
+    main #join .sign .photos img[alt="Julie 5"]{
+        display: none;
+    }
+    main #join .sign .connection{
+        margin-left: 9%;
+    }
+}
+
+@media (max-width: 740px) {
+    main .about_me .info h3{
+        margin-top: 10%;
+    }
+    main .about_me .info .pic2 {
+        display: none;
+    }
+    main #join .sign .connection{
+        margin-left: 0;
+    }
+}
+@media (max-width: 1600px) {
+
+}
+@media (max-width: 1600px) {
+
+}
